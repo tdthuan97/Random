@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         btnClick = findViewById(R.id.buttonClick);
 
         Random rd = new Random();
-
+        //hello world
         btnClick.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
